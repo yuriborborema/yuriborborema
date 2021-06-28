@@ -1,7 +1,7 @@
   # Yuri Oliveira Borborema
 
-- 🔭 I’m currently working on Angular
-- 🌱 I’m currently learning NodeJS, Java and React Native
+- 🔭 I’m currently working with Java and Angular
+- 🌱 I’m currently learning Spring and Python
 - 🔍 Currently open to new opportunities
 - 👯 I’m looking to collaborate on social projects
 
